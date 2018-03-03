@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0755935-5be8-4a1a-9676-9f346840a5e2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shopcrawler.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/middlewares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shopcrawler/spiders/walmart.py" />
-    </list>
+    <list default="true" id="a0755935-5be8-4a1a-9676-9f346840a5e2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

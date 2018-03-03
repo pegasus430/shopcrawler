@@ -16,6 +16,7 @@ class Walmart(scrapy.Spider):
     HEADER = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                             "(KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"}
 
+    START_URL = "https://www.walmart.com"
     SEARCH_URL = "https://www.walmart.com/search/api/preso?prg=desktop&query=" \
                  "{search_term}&page={page_num}&cat_id=0"
 
